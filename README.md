@@ -1,4 +1,4 @@
-# Kaggle Competition Solution and Data Science Projects
+# Kaggle Competition Solutions and Data Science Projects
 
 ▪ Built fraudulent click classification models (LightGBM) in Kaggle’s TalkingData AdTracking Fraud Detection Challenge. <br />
 ▪ Trained models on Amazon Web Services with over 80 million data points in 45 dimensions (derived from 6). <br />
