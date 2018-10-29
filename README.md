@@ -1,4 +1,4 @@
-# Data-Science-Application
+# Kaggle-Competition-Solution-+-Data-Science-Projects
 Python Programming Projects
 
 ▪ Built fraudulent click classification models (LightGBM) in Kaggle’s TalkingData AdTracking Fraud Detection Challenge. <br />
